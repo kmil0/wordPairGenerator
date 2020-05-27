@@ -1,6 +1,6 @@
 # wordpair_generator 🌓
 
-ListView Test concepts about a Youtube tutorial 🕹 of Traversy Media
+ListView Test concepts about tutorial 🕹 of Traversy Media
 
 ## Getting Started
 
